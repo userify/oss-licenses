@@ -296,16 +296,11 @@ Full License Text:
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
 
-=======================================
-Package Name: otpauth
----------------------------------------
 
-Note: this package will soon be removed as a Userify pre-requisite
-in favor of the upcoming TOTP modules in cryptography (see below):
-https://cryptography.io/en/latest/hazmat/primitives/twofactor/
+# Package Name: otpauth
+## Package Type: python
 
-Package Type: python
-Status: Currently Used
+Status: Phasing Out
 
 License: BSD
 
