@@ -4,13 +4,15 @@ Userify is very grateful to the open source projects that follow. As an active c
 
 This document lists these projects that we rely on, and the licenses for each. Not all packages are used or included in all editions.
 
-
 ## Package Name: cffi
 ### Package Type: python
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://bitbucket.org/cffi/cffi/src/67f818fdf4c7340b7ce38602ab35a6eaf4b30405/LICENSE?at=default
+
 Full License Text: 
 
     Except when otherwise stated (look for LICENSE files in directories or
@@ -39,13 +41,15 @@ Full License Text:
         DEALINGS IN THE SOFTWARE.
 
 
-
 ## Package Name: ndg-httpsclient
 ### Package Type: python
 
 Status: Currently Used
+
 License: BSD
+
 License URL: https://github.com/cedadev/ndg_httpsclient/blob/master/ndg/httpsclient/LICENSE
+
 Full License Text:
 
     Copyright (c) 2012, Science & Technology Facilities Council (STFC)
@@ -76,13 +80,15 @@ Full License Text:
     SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-
 ## Package Name: pyasn1
 ### Package Type: python
 
 Status: Currently Used
+
 License: BSD
+
 License URL: https://github.com/etingof/pyasn1/blob/master/LICENSE.rst
+
 Full License Text:
 
     Copyright (c) 2005-2017, Ilya Etingof <etingof@gmail.com> All rights reserved.
@@ -93,13 +99,15 @@ Full License Text:
     Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
     THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-
 ## Package Name: requests
 ### Package Type: python
 
 Status: Currently Used
+
 License: Apache License Version 2.0
+
 License URL: https://github.com/requests/requests/blob/master/LICENSE
+
 Full License Text:
 
     Copyright 2017 Kenneth Reitz
@@ -116,18 +124,20 @@ Full License Text:
        See the License for the specific language governing permissions and
        limitations under the License.
 
-
 ## Package Name: python-ldap
 ### Package Type: python
 
 Status: Currently Used
+
 License: PSF
+
 License URL: http://python-ldap.cvs.sourceforge.net/viewvc/python-ldap/python-ldap/LICENCE?revision=1.1&view=markup
+
 Full License Text:
 
 
      The python-ldap package is distributed under Python-style license.
-     
+
      Standard disclaimer:
         This software is made available by the author(s) to the public for free
         and "as is".  All users of this free software are solely and entirely
@@ -136,15 +146,17 @@ Full License Text:
         author(s) shall not be liable for damages of any kind in relation to
         its use or performance. The author(s) do not warrant that this software
         is fit for any purpose.
-     
 
 
 ## Package Name: python-slugify
 ### Package Type: python
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/un33k/python-slugify/blob/master/LICENSE
+
 Full License Text:
 
     The MIT License
@@ -169,13 +181,15 @@ Full License Text:
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
 
-
 ## Package Name: jinja2
 ### Package Type: python
 
 Status: Currently Used
+
 License: BSD
+
 License URL: https://github.com/pallets/jinja/blob/master/LICENSE
+
 Full License Text:
 
     Copyright (c) 2009 by the Jinja Team, see AUTHORS for more details.
@@ -210,13 +224,15 @@ Full License Text:
     (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
     OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-
 ## Package Name: shortuuid
 ### Package Type: python
 
 Status: Currently Used
+
 License: BSD
+
 License URL: https://github.com/skorokithakis/shortuuid/blob/master/COPYING
+
 Full License Text: 
 
     Copyright (c) 2011, Stochastic Technologies
@@ -249,13 +265,15 @@ Full License Text:
     (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
     OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
 
-
 ## Package Name: bottle
 ### Package Type: python
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/bottlepy/bottle/blob/master/LICENSE
+
 Full License Text: 
 
     Copyright (c) 2017, Marcel Hellkamp.
@@ -278,7 +296,6 @@ Full License Text:
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
 
-
 =======================================
 Package Name: otpauth
 ---------------------------------------
@@ -289,8 +306,11 @@ https://cryptography.io/en/latest/hazmat/primitives/twofactor/
 
 Package Type: python
 Status: Currently Used
+
 License: BSD
+
 License URL: https://github.com/lepture/otpauth/blob/master/LICENSE
+
 Full License Text: 
 
     Copyright (c) 2013 - 2015, Hsiaoming Yang
@@ -322,13 +342,15 @@ Full License Text:
     OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
     OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-
 ## Package Name: qrcode
 ### Package Type: python
 
 Status: Currently Used
+
 License: BSD
+
 License URL: https://github.com/lincolnloop/python-qrcode/blob/master/LICENSE
+
 Full License Text:
 
     Copyright (c) 2011, Lincoln Loop
@@ -376,13 +398,15 @@ Full License Text:
          DENSO WAVE INCORPORATED
            http://www.denso-wave.com/qrcode/faqpatent-e.html
 
-
 ## Package Name: ipwhois,Copyright (c) 2013, 2014, 2015
 ### Package Type: python
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/secynic/ipwhois/blob/master/LICENSE.txt
+
 Full License Text:
 
     Copyright (c) 2013-2017 Philip Hane
@@ -408,13 +432,15 @@ Full License Text:
     (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
     SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-
 ## Package Name: netaddr
 ### Package Type: python
 
 Status: Currently Used
+
 License: BSD
+
 License URL: https://github.com/drkjam/netaddr/blob/rel-0.7.x/LICENSE
+
 Full License Text: 
 
     Here are the licenses applicable to the use of the netaddr library.
@@ -456,8 +482,11 @@ Full License Text:
 ### Package Type: python
 
 Status: Currently Used
+
 License: BSD
+
 License URL: https://github.com/dvarrazzo/py-setproctitle/blob/master/COPYRIGHT
+
 Full License Text: 
 
     Copyright (c) 2009-2016, Daniele Varrazzo <daniele.varrazzo@gmail.com>
@@ -490,8 +519,11 @@ Full License Text:
 ### Package Type: python
 
 Status: Currently Used
+
 License: BSD
+
 License URL: https://code.google.com/archive/p/py-bcrypt/source/default/source
+
 Full License Text: 
 
     The Python binding code is subject to this license:
@@ -513,7 +545,7 @@ Full License Text:
      */
 
     The underlying blowfish code is derived from OpenBSD libc and is
-    subject to the following license:  
+    subject to the following license:
 
     /*
      * Blowfish block cipher for OpenBSD
@@ -549,7 +581,7 @@ Full License Text:
      */
 
     The underlying bcrypt (hashing) code is derived from OpenBSD libc and is
-    subject to the following license:  
+    subject to the following license:
 
     /*
      * Copyright 1997 Niels Provos <provos@physnet.uni-hamburg.de>
@@ -654,13 +686,15 @@ Full License Text:
      * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
      */
 
-
 ## Package Name: termcolor
 ### Package Type: python
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://pypi.python.org/pypi/termcolor
+
 Full License Text: 
 
     Copyright (c) 2008-2011 Volvox Development Team
@@ -683,13 +717,15 @@ Full License Text:
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
 
-
 ## Package Name: tomorrow
 ### Package Type: python
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/madisonmay/Tomorrow/blob/master/LICENSE
+
 Full License Text:
 
     The MIT License (MIT)
@@ -714,13 +750,15 @@ Full License Text:
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 
-
 ## Package Name: addict
 ### Package Type: python
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/mewwts/addict/blob/master/LICENSE
+
 Full License Text: 
 
     The MIT License (MIT)
@@ -745,13 +783,15 @@ Full License Text:
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 
-
 ## Package Name: pynacl
 ### Package Type: python
 
 Status: Currently Used
+
 License: Apache License Version 2.0
+
 License URL: https://github.com/pyca/pynacl/blob/master/LICENSE
+
 Full License Text: 
 
                                   Apache License
@@ -929,13 +969,15 @@ Full License Text:
        incurred by, or claims asserted against, such Contributor by reason
        of your accepting any such warranty or additional liability.
 
-
 ## Package Name: rq
 ### Package Type: python
 
 Status: Currently Used
+
 License: BSD
+
 License URL: https://github.com/nvie/rq/blob/master/LICENSE
+
 Full License Text: 
 
     Copyright 2012 Vincent Driessen. All rights reserved.
@@ -965,7 +1007,6 @@ Full License Text:
     of the authors and should not be interpreted as representing official policies,
     either expressed or implied, of Vincent Driessen.
 
-
 ## Package Name: boto
 ### Package Type: python
 
@@ -993,13 +1034,15 @@ Full License Text:
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
     IN THE SOFTWARE.
 
-
 ## Package Name: pyindent
 ### Package Type: python
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/jamiesonbecker/pyindent
+
 Full License Text: 
 
     The MIT License (MIT)
@@ -1024,13 +1067,15 @@ Full License Text:
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 
-
 ## Package Name: spooky
 ### Package Type: python
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/DomainTools/spooky/blob/master/LICENSE
+
 Full License Text: 
 
     The MIT License (MIT)
@@ -1054,13 +1099,15 @@ Full License Text:
     IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
     CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
 ## Package Name: redis
 ### Package Type: python
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/andymccurdy/redis-py/blob/master/LICENSE
+
 Full License Text:
 
     Copyright (c) 2012 Andy McCurdy
@@ -1086,13 +1133,15 @@ Full License Text:
      FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
      OTHER DEALINGS IN THE SOFTWARE.
 
-
 ## Package Name: pillow
 ### Package Type: python
 
 Status: Currently Used
+
 License: Standard PIL License
+
 License URL: https://github.com/python-pillow/Pillow/blob/master/LICENSE
+
 Full License Text: 
 
     The Python Imaging Library (PIL) is
@@ -1126,13 +1175,15 @@ Full License Text:
     ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS
     SOFTWARE.
 
-
 ## Package Name: emails
 ### Package Type: python
 
 Status: Currently Used
+
 License: Apache License Version 2.0
+
 License URL: https://github.com/lavr/python-emails/blob/master/LICENSE
+
 Full License Text: 
 
     Copyright 2013-2015 Sergey Lavrinenko
@@ -1149,13 +1200,15 @@ Full License Text:
        See the License for the specific language governing permissions and
        limitations under the License.
 
-
 ## Package Name: pyopenssl
 ### Package Type: python
 
 Status: Currently Used
+
 License: Apache License Version 2.0
+
 License URL: https://github.com/pyca/pyopenssl/blob/master/LICENSE
+
 Full License Text: 
 
                                      Apache License
@@ -1364,8 +1417,11 @@ Full License Text:
 ### Package Type: python
 
 Status: Currently Used
+
 License: BSD
+
 License URL: 
+
 Full License Text: 
 
     This software is made available under the terms of *either* of the licenses
@@ -1380,13 +1436,15 @@ Full License Text:
     LICENSE.BSD: https://github.com/pyca/cryptography/blob/master/LICENSE.BSD
     LICENSE.PSF: https://github.com/pyca/cryptography/blob/master/LICENSE.PSF
 
-
 ## Package Name: paste
 ### Package Type: python
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://bitbucket.org/ianb/paste/src/0e5a48796ab969d874c6b772c5c33561ac2d1b0d/docs/license.txt?at=default
+
 Full License Text: 
 
     Copyright (c) 2006-2007 Ian Bicking and Contributors
@@ -1414,8 +1472,11 @@ Full License Text:
 ### Package Type: python
 
 Status: Currently Used
+
 License: Apache License Version 2.0
+
 License URL: https://github.com/apache/libcloud/blob/trunk/LICENSE
+
 Full License Text: 
 
 
@@ -1625,8 +1686,11 @@ Full License Text:
 ### Package Type: python
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/pyca/service_identity/blob/master/LICENSE
+
 Full License Text: 
 
     Copyright (c) 2014 Hynek Schlawack
@@ -1681,7 +1745,6 @@ Full License Text:
     OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
     WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
     -----
 
     Files ldaptor/compat.py, ldaptor/md4.py are from the passlib project
@@ -1720,13 +1783,15 @@ Full License Text:
         OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-
 ## Package Name: unframework.js
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/jamiesonbecker/unframework.js/blob/master/LICENSE
+
 Full License Text: 
 
     Copyright (c) 2017 Jamieson Becker
@@ -1753,13 +1818,15 @@ Full License Text:
     DEALINGS IN THE SOFTWARE.
 
 
-
 ## Package Name: bootstrap-datepicker.js
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: Apache License Version 2.0
+
 License URL: https://github.com/uxsolutions/bootstrap-datepicker/blob/master/LICENSE
+
 Full License Text: 
 
 
@@ -1966,13 +2033,15 @@ Full License Text:
        limitations under the License.
 
 
-
 ## Package Name: Bootstrap
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/twbs/bootstrap/blob/master/LICENSE
+
 Full License Text: 
 
     The MIT License (MIT)
@@ -1997,13 +2066,15 @@ Full License Text:
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
 
-
 ## Package Name: Chart.js
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/chartjs/Chart.js/blob/master/LICENSE.md
+
 Full License Text: 
 
     The MIT License (MIT)
@@ -2016,13 +2087,15 @@ Full License Text:
 
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
 ## Package Name: Crumble.js
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/tommoor/crumble
+
 Full License Text: 
 
     Crumble is released under the MIT license. It is simple and easy to understand and places almost no restrictions on what you can do with Crumble. (linked):
@@ -2046,13 +2119,15 @@ Full License Text:
     SOFTWARE.
 
 
-
 ## Package Name: DataTables
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://datatables.net/license/mit
+
 Full License Text: 
 
     Copyright (C) 2008-2017, SpryMedia Ltd.
@@ -2064,13 +2139,15 @@ Full License Text:
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-
 ## Package Name: Dragula.js
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/bevacqua/dragula/blob/master/license
+
 Full License Text: 
 
     The MIT License (MIT)
@@ -2095,25 +2172,29 @@ Full License Text:
     CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-
 ## Package Name: equalize.js
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT,GPL2
+
 License URL: https://github.com/tsvensen/equalize.js/
+
 Full License Text: 
 
 Author & copyright (c) 2012: Tim Svensen
 Dual MIT & GPLv2 license
 
-
 ## Package Name: DoubleScroll
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT,GPL
+
 License URL: https://github.com/avianey/jqDoubleScroll
+
 Full License Text: 
 
     Dual licensed under the MIT and GPL licenses:
@@ -2121,13 +2202,15 @@ Full License Text:
     http://www.gnu.org/licenses/gpl.html
 
 
-
 ## Package Name: qtip2
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/qTip2/qTip2/blob/master/LICENSE
+
 Full License Text: 
 
     Copyright (c) 2012 Craig Michael Thompson
@@ -2153,13 +2236,15 @@ Full License Text:
     FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
     OTHER DEALINGS IN THE SOFTWARE.
 
-
 ## Package Name: jquery.scrollbar
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/gromo/jquery.scrollbar/blob/master/license-mit.txt
+
 Full License Text: 
 
     Copyright (c) 2013 Yuriy Khabarov <13real008@gmail.com>
@@ -2184,13 +2269,15 @@ Full License Text:
     WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-
 ## Package Name: jquery.timeago
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/rmm5t/jquery-timeago/blob/master/LICENSE.txt
+
 Full License Text: 
 
     Copyright (c) 2008-2017 Ryan McGeary
@@ -2217,13 +2304,15 @@ Full License Text:
     WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-
 ## Package Name: Javascript Cookie
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/js-cookie/js-cookie/blob/master/MIT-LICENSE.txt
+
 Full License Text: 
 
     Copyright 2014 Klaus Hartl
@@ -2248,39 +2337,45 @@ Full License Text:
     WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-
 ## Package Name: json2.js
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: Public Domain
+
 License URL: https://github.com/douglascrockford/JSON-js/blob/master/json2.js
+
 Full License Text: 
 
     Public Domain.
     NO WARRANTY EXPRESSED OR IMPLIED. USE AT YOUR OWN RISK.
 
 
-
 ## Package Name: md5
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/blueimp/JavaScript-MD5
+
 Full License Text: 
 
     License
     The JavaScript MD5 script is released under the MIT license.
 
 
-
 ## Package Name: push.js
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/Nickersoft/push.js/blob/master/LICENSE.md
+
 Full License Text: 
 
     The MIT License (MIT)
@@ -2294,13 +2389,15 @@ Full License Text:
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-
 ## Package Name: pace.js
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/HubSpot/pace/blob/master/LICENSE
+
 Full License Text: 
 
     Copyright (c) 2013 HubSpot, Inc.
@@ -2326,14 +2423,15 @@ Full License Text:
 
 
 
-
-
 ## Package Name: jquery-placeholder
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/mathiasbynens/jquery-placeholder/blob/gh-pages/LICENSE.txt
+
 Full License Text: 
 
     Copyright Mathias Bynens <http://mathiasbynens.be/>
@@ -2357,13 +2455,15 @@ Full License Text:
     OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
     WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
 ## Package Name: prism.js
 ### Package Type: javascript
 
 Status: Phasing out
+
 License: MIT
+
 License URL: https://github.com/PrismJS/prism/blob/gh-pages/LICENSE
+
 Full License Text:
 
     MIT LICENSE
@@ -2389,13 +2489,15 @@ Full License Text:
     THE SOFTWARE.
 
 
-
 ## Package Name: Highlight.js
 ### Package Type: javascript
 
 Status: Included in Userify 5.0 and later
+
 License: MIT
+
 License URL: https://github.com/isagalaev/highlight.js/blob/master/LICENSE
+
 Full License Text: 
 
     Copyright (c) 2006, Ivan Sagalaev
@@ -2424,13 +2526,15 @@ Full License Text:
     SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-
 ## Package Name: Q
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/kriskowal/q/blob/master/LICENSE
+
 Full License Text: 
 
     Copyright 2009–2017 Kristopher Michael Kowal. All rights reserved.
@@ -2453,13 +2557,15 @@ Full License Text:
     IN THE SOFTWARE.
 
 
-
 ## Package Name: safify.js
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/jamiesonbecker/safify.js/blob/master/LICENSE
+
 Full License Text: 
 
     Copyright 2013 Jamieson Becker
@@ -2484,13 +2590,15 @@ Full License Text:
     OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
     WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
 ## Package Name: jsSHA
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: BSD
+
 License URL: https://github.com/Caligatio/jsSHA/blob/v2.3.1/LICENSE
+
 Full License Text: 
 
     Copyright (c) 2008-2017, Brian Turek
@@ -2530,13 +2638,15 @@ Full License Text:
     Original code is available on http://pajhome.org.uk/crypt/md5
 
 
-
 ## Package Name: startswith
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/mathiasbynens/String.prototype.startsWith/blob/master/LICENSE-MIT.txt
+
 Full License Text: 
 
     Copyright Mathias Bynens <https://mathiasbynens.be/>
@@ -2562,13 +2672,15 @@ Full License Text:
 
 
 
-
 ## Package Name: SweetAlert
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/t4t5/sweetalert/blob/master/LICENSE
+
 Full License Text: 
 
     The MIT License (MIT)
@@ -2597,8 +2709,11 @@ Full License Text:
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/draeton/tanchor/blob/master/LICENSE
+
 Full License Text: 
 
     Copyright (c) 2013, Matthew Cobbs
@@ -2626,8 +2741,11 @@ Full License Text:
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/jashkenas/underscore/blob/master/LICENSE
+
 Full License Text: 
 
     Copyright (c) 2009-2017 Jeremy Ashkenas, DocumentCloud and Investigative
@@ -2658,8 +2776,11 @@ Full License Text:
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/epeli/underscore.string
+
 Full License Text: 
 
     The MIT License
@@ -2672,13 +2793,15 @@ Full License Text:
 
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
 ## Package Name: velocity.JS
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/julianshapiro/velocity/blob/master/LICENSE.md
+
 Full License Text: 
 
     The MIT License
@@ -2702,13 +2825,15 @@ Full License Text:
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 
-
 ## Package Name: jQuery
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/jquery/jquery/blob/master/LICENSE.txt
+
 Full License Text: 
 
     Copyright JS Foundation and other contributors, https://js.foundation/
@@ -2748,13 +2873,15 @@ Full License Text:
     own licenses; we recommend you read them, as their terms may differ from
     the terms above.
 
-
 ## Package Name: X-editable
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/vitalets/x-editable/blob/develop/LICENSE-MIT
+
 Full License Text: 
 
     Copyright (c) 2012 Vitaliy Potapov
@@ -2784,8 +2911,11 @@ Full License Text:
 ### Package Type: javascript
 
 Status: Currently Used
+
 License: MIT
+
 License URL: https://github.com/marcj/css-element-queries/blob/master/LICENSE
+
 Full License Text: 
 
     Copyright (c) 2013 Marc J. Schmidt
@@ -2808,13 +2938,16 @@ Full License Text:
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
 
-    
+
 ## Package Name: Roboto
 ### Package Type: font
 
 Status: Currently Used
+
 License: Apache License Version 2.0
+
 License URL: https://github.com/google/roboto/blob/master/LICENSE
+
 Full License Text: 
 
                                      Apache License
@@ -3019,13 +3152,15 @@ Full License Text:
        See the License for the specific language governing permissions and
        limitations under the License.
 
-
 ## Package Name: Droid Sans
 ### Package Type: font
 
 Status: Currently Used
+
 License: Apache License Version 2.0
+
 License URL: https://github.com/google/fonts
+
 Full License Text: 
 
     Licensing
@@ -3045,13 +3180,15 @@ Full License Text:
 
     [Reference to Apache 2.0 license also found here: https://fonts.google.com/specimen/Droid+Sans]
 
-
 ## Package Name: Font Awesome
 ### Package Type: font
 
 Status: Currently Used
+
 License: SIL OFL 1.1
+
 License URL: http://fontawesome.io/license/
+
 Full License Text: 
 
 License text source: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
@@ -3061,8 +3198,11 @@ License text source: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id
 ### Package Type: css
 
 Status: Currently Used
+
 License: MIT
+
 License URL: http://fontawesome.io/license/
+
 Full License Text: 
 
 License text source: http://opensource.org/licenses/mit-license.html
@@ -3072,7 +3212,9 @@ License text source: http://opensource.org/licenses/mit-license.html
 ### Package Type: font
 
 Status: Currently Used
+
 License: SIL OFL 1.1, Apache License Version 2.0
+
 License URL: https://github.com/Templarian/MaterialDesign/blob/master/license.txt
 
 Full License Text: 
@@ -3172,6 +3314,3 @@ Full License Text:
     DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
     FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
     OTHER DEALINGS IN THE FONT SOFTWARE.
-        
-
-
