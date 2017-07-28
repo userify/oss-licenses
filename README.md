@@ -297,8 +297,8 @@ Full License Text:
     THE SOFTWARE.
 
 
-# Package Name: otpauth
-## Package Type: python
+## Package Name: otpauth
+### Package Type: python
 
 Status: Phasing Out
 
