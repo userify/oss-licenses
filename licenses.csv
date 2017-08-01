@@ -1,21 +1,4 @@
-# Introduction
-
-Userify is very grateful to the open source projects that follow. As an active corporate citizen, we will always strive to give back with meaningful contributions to the open source community.
-
-This document lists these projects that we rely on, and the licenses for each. Not all packages are used or included in all editions.
-
-## Package Name: cffi
-### Package Type: python
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://bitbucket.org/cffi/cffi/src/67f818fdf4c7340b7ce38602ab35a6eaf4b30405/LICENSE?at=default
-
-Full License Text: 
-
-    Except when otherwise stated (look for LICENSE files in directories or
+cffi,MIT,"Except when otherwise stated (look for LICENSE files in directories or
     information at the beginning of each file) all software and
     documentation is licensed as follows: 
 
@@ -23,7 +6,7 @@ Full License Text:
 
         Permission is hereby granted, free of charge, to any person 
         obtaining a copy of this software and associated documentation 
-        files (the "Software"), to deal in the Software without 
+        files (the ""Software""), to deal in the Software without 
         restriction, including without limitation the rights to use, 
         copy, modify, merge, publish, distribute, sublicense, and/or 
         sell copies of the Software, and to permit persons to whom the 
@@ -32,27 +15,14 @@ Full License Text:
         The above copyright notice and this permission notice shall be included 
         in all copies or substantial portions of the Software.
 
-        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+        THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
         OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
         FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
         THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
         LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING 
         FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
-        DEALINGS IN THE SOFTWARE.
-
-
-## Package Name: ndg-httpsclient
-### Package Type: python
-
-Status: Currently Used
-
-License: BSD
-
-License URL: https://github.com/cedadev/ndg_httpsclient/blob/master/ndg/httpsclient/LICENSE
-
-Full License Text:
-
-    Copyright (c) 2012, Science & Technology Facilities Council (STFC)
+        DEALINGS IN THE SOFTWARE."
+ndg-httpsclient,BSD,"Copyright (c) 2012, Science & Technology Facilities Council (STFC)
     All rights reserved.
 
     Redistribution and use in source and binary forms, with or without 
@@ -68,7 +38,7 @@ Full License Text:
           products derived from this software without specific prior written 
           permission.
 
-    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ""AS IS"" AND
     ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED 
     WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE 
     DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
@@ -77,94 +47,43 @@ Full License Text:
     LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
     ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT 
     (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS 
-    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
-## Package Name: pyasn1
-### Package Type: python
-
-Status: Currently Used
-
-License: BSD
-
-License URL: https://github.com/etingof/pyasn1/blob/master/LICENSE.rst
-
-Full License Text:
-
-    Copyright (c) 2005-2017, Ilya Etingof <etingof@gmail.com> All rights reserved.
+    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+pyasn1,BSD,"Copyright (c) 2005-2017, Ilya Etingof <etingof@gmail.com> All rights reserved.
 
     Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
     Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
     Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
-    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ""AS IS"" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+requests,Apache License Version 2.0,"Copyright 2017 Kenneth Reitz
 
-## Package Name: requests
-### Package Type: python
-
-Status: Currently Used
-
-License: Apache License Version 2.0
-
-License URL: https://github.com/requests/requests/blob/master/LICENSE
-
-Full License Text:
-
-    Copyright 2017 Kenneth Reitz
-
-       Licensed under the Apache License, Version 2.0 (the "License");
+       Licensed under the Apache License, Version 2.0 (the ""License"");
        you may not use this file except in compliance with the License.
        You may obtain a copy of the License at
 
            http://www.apache.org/licenses/LICENSE-2.0
 
        Unless required by applicable law or agreed to in writing, software
-       distributed under the License is distributed on an "AS IS" BASIS,
+       distributed under the License is distributed on an ""AS IS"" BASIS,
        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
        See the License for the specific language governing permissions and
-       limitations under the License.
-
-## Package Name: python-ldap
-### Package Type: python
-
-Status: Currently Used
-
-License: PSF
-
-License URL: http://python-ldap.cvs.sourceforge.net/viewvc/python-ldap/python-ldap/LICENCE?revision=1.1&view=markup
-
-Full License Text:
-
-
-     The python-ldap package is distributed under Python-style license.
+       limitations under the License."
+python-ldap,PSF,"The python-ldap package is distributed under Python-style license.
 
      Standard disclaimer:
         This software is made available by the author(s) to the public for free
-        and "as is".  All users of this free software are solely and entirely
+        and ""as is"".  All users of this free software are solely and entirely
         responsible for their own choice and use of this software for their
         own purposes.  By using this software, each user agrees that the
         author(s) shall not be liable for damages of any kind in relation to
         its use or performance. The author(s) do not warrant that this software
-        is fit for any purpose.
-
-
-## Package Name: python-slugify
-### Package Type: python
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/un33k/python-slugify/blob/master/LICENSE
-
-Full License Text:
-
-    The MIT License
+        is fit for any purpose."
+python-slugify,MIT,"The MIT License
 
     Copyright (c) Val Neekman @ Neekware Inc. http://neekware.com
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
+    of this software and associated documentation files (the ""Software""), to deal
     in the Software without restriction, including without limitation the rights
     to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the Software is
@@ -173,26 +92,14 @@ Full License Text:
     The above copyright notice and this permission notice shall be included in
     all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-    THE SOFTWARE.
-
-## Package Name: jinja2
-### Package Type: python
-
-Status: Currently Used
-
-License: BSD
-
-License URL: https://github.com/pallets/jinja/blob/master/LICENSE
-
-Full License Text:
-
-    Copyright (c) 2009 by the Jinja Team, see AUTHORS for more details.
+    THE SOFTWARE."
+jinja2,BSD,"Copyright (c) 2009 by the Jinja Team, see AUTHORS for more details.
 
     Some rights reserved.
 
@@ -213,7 +120,7 @@ Full License Text:
           prior written permission.
 
     THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-    "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+    ""AS IS"" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
     LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
     A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
     OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
@@ -222,20 +129,8 @@ Full License Text:
     DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
     THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
     (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-    OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-## Package Name: shortuuid
-### Package Type: python
-
-Status: Currently Used
-
-License: BSD
-
-License URL: https://github.com/skorokithakis/shortuuid/blob/master/COPYING
-
-Full License Text: 
-
-    Copyright (c) 2011, Stochastic Technologies
+    OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+shortuuid,BSD,"Copyright (c) 2011, Stochastic Technologies
     All rights reserved.
 
     Redistribution and use in source and binary forms, with or without
@@ -254,7 +149,7 @@ Full License Text:
     this software without specific prior written permission. 
 
     THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-    "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+    ""AS IS"" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
     LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
     A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
     OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
@@ -263,23 +158,11 @@ Full License Text:
     DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
     THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
     (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-    OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
-
-## Package Name: bottle
-### Package Type: python
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/bottlepy/bottle/blob/master/LICENSE
-
-Full License Text: 
-
-    Copyright (c) 2017, Marcel Hellkamp.
+    OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+bottle,MIT,"Copyright (c) 2017, Marcel Hellkamp.
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
+    of this software and associated documentation files (the ""Software""), to deal
     in the Software without restriction, including without limitation the rights
     to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the Software is
@@ -288,27 +171,14 @@ Full License Text:
     The above copyright notice and this permission notice shall be included in
     all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-    THE SOFTWARE.
-
-
-## Package Name: otpauth
-### Package Type: python
-
-Status: Phasing Out
-
-License: BSD
-
-License URL: https://github.com/lepture/otpauth/blob/master/LICENSE
-
-Full License Text: 
-
-    Copyright (c) 2013 - 2015, Hsiaoming Yang
+    THE SOFTWARE."
+otpauth,BSD,"Copyright (c) 2013 - 2015, Hsiaoming Yang
 
     All rights reserved.
 
@@ -326,7 +196,7 @@ Full License Text:
     to endorse or promote products derived from this software without specific
     prior written permission.
 
-    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ""AS IS"" AND
     ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
     WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
     DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
@@ -335,20 +205,8 @@ Full License Text:
     SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
     CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
     OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-    OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-## Package Name: qrcode
-### Package Type: python
-
-Status: Currently Used
-
-License: BSD
-
-License URL: https://github.com/lincolnloop/python-qrcode/blob/master/LICENSE
-
-Full License Text:
-
-    Copyright (c) 2011, Lincoln Loop
+    OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+qrcode,BSD,"Copyright (c) 2011, Lincoln Loop
     All rights reserved.
 
     Redistribution and use in source and binary forms, with or without
@@ -363,7 +221,7 @@ Full License Text:
           used to endorse or promote products derived from this software without
           specific prior written permission.
 
-    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ""AS IS"" AND
     ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
     WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE 
     DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
@@ -389,22 +247,10 @@ Full License Text:
         Licensed under the MIT license:
            http://www.opensource.org/licenses/mit-license.php
 
-         The word "QR Code" is registered trademark of
+         The word ""QR Code"" is registered trademark of
          DENSO WAVE INCORPORATED
-           http://www.denso-wave.com/qrcode/faqpatent-e.html
-
-## Package Name: ipwhois
-### Package Type: python
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/secynic/ipwhois/blob/master/LICENSE.txt
-
-Full License Text:
-
-    Copyright (c) 2013-2017 Philip Hane
+           http://www.denso-wave.com/qrcode/faqpatent-e.html"
+ipwhois,MIT,"Copyright (c) 2013-2017 Philip Hane
     All rights reserved.
 
     Redistribution and use in source and binary forms, with or without
@@ -416,7 +262,7 @@ Full License Text:
        this list of conditions and the following disclaimer in the documentation
        and/or other materials provided with the distribution. 
 
-    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ""AS IS"" AND
     ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
     WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
     DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
@@ -425,20 +271,8 @@ Full License Text:
     LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
     ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
     (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-## Package Name: netaddr
-### Package Type: python
-
-Status: Currently Used
-
-License: BSD
-
-License URL: https://github.com/drkjam/netaddr/blob/rel-0.7.x/LICENSE
-
-Full License Text: 
-
-    Here are the licenses applicable to the use of the netaddr library.
+    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+netaddr,BSD,"Here are the licenses applicable to the use of the netaddr library.
 
     netaddr
 
@@ -462,7 +296,7 @@ Full License Text:
       software without specific prior written permission.
 
     THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-    "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+    ""AS IS"" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
     LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
     A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
     OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
@@ -471,20 +305,8 @@ Full License Text:
     DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
     THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
     (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-    OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-## Package Name: setproctitle
-### Package Type: python
-
-Status: Currently Used
-
-License: BSD
-
-License URL: https://github.com/dvarrazzo/py-setproctitle/blob/master/COPYRIGHT
-
-Full License Text: 
-
-    Copyright (c) 2009-2016, Daniele Varrazzo <daniele.varrazzo@gmail.com>
+    OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+setproctitle,BSD,"Copyright (c) 2009-2016, Daniele Varrazzo <daniele.varrazzo@gmail.com>
     All rights reserved.
 
     Redistribution and use in source and binary forms, with or without
@@ -499,7 +321,7 @@ Full License Text:
       products derived from this software without specific prior written
       permission.
 
-    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ""AS IS"" AND
     ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
     WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
     DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
@@ -508,20 +330,8 @@ Full License Text:
     SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
     HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
     LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
-    OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-## Package Name: py-bcrypt
-### Package Type: python
-
-Status: Currently Used
-
-License: BSD
-
-License URL: https://code.google.com/archive/p/py-bcrypt/source/default/source
-
-Full License Text: 
-
-    The Python binding code is subject to this license:
+    OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+py-bcrypt,BSD,"The Python binding code is subject to this license:
 
     /*
      * Copyright (c) 2006 Damien Miller <djm@mindrot.org>
@@ -530,7 +340,7 @@ Full License Text:
      * purpose with or without fee is hereby granted, provided that the above
      * copyright notice and this permission notice appear in all copies.
      *
-     * THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+     * THE SOFTWARE IS PROVIDED ""AS IS"" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
      * WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
      * MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
      * ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
@@ -617,7 +427,7 @@ Full License Text:
      * purpose with or without fee is hereby granted, provided that the above
      * copyright notice and this permission notice appear in all copies.
      *
-     * THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+     * THE SOFTWARE IS PROVIDED ""AS IS"" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
      * WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
      * MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
      * ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
@@ -672,30 +482,18 @@ Full License Text:
      * purpose with or without fee is hereby granted, provided that the above
      * copyright notice and this permission notice appear in all copies.
      *
-     * THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+     * THE SOFTWARE IS PROVIDED ""AS IS"" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
      * WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
      * MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
      * ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
      * WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
      * ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
      * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-     */
-
-## Package Name: termcolor
-### Package Type: python
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://pypi.python.org/pypi/termcolor
-
-Full License Text: 
-
-    Copyright (c) 2008-2011 Volvox Development Team
+     */"
+termcolor,MIT,"Copyright (c) 2008-2011 Volvox Development Team
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
+    of this software and associated documentation files (the ""Software""), to deal
     in the Software without restriction, including without limitation the rights
     to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the Software is
@@ -704,31 +502,19 @@ Full License Text:
     The above copyright notice and this permission notice shall be included in
     all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-    THE SOFTWARE.
-
-## Package Name: tomorrow
-### Package Type: python
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/madisonmay/Tomorrow/blob/master/LICENSE
-
-Full License Text:
-
-    The MIT License (MIT)
+    THE SOFTWARE."
+tomorrow,MIT,"The MIT License (MIT)
 
     Copyright (c) 2015 Madison May
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
+    of this software and associated documentation files (the ""Software""), to deal
     in the Software without restriction, including without limitation the rights
     to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the Software is
@@ -737,31 +523,19 @@ Full License Text:
     The above copyright notice and this permission notice shall be included in all
     copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
-
-## Package Name: addict
-### Package Type: python
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/mewwts/addict/blob/master/LICENSE
-
-Full License Text: 
-
-    The MIT License (MIT)
+    SOFTWARE."
+addict,MIT,"The MIT License (MIT)
 
     Copyright (c) 2014 Mats Julian Olsen
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
+    of this software and associated documentation files (the ""Software""), to deal
     in the Software without restriction, including without limitation the rights
     to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the Software is
@@ -770,26 +544,14 @@ Full License Text:
     The above copyright notice and this permission notice shall be included in all
     copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
-
-## Package Name: pynacl
-### Package Type: python
-
-Status: Currently Used
-
-License: Apache License Version 2.0
-
-License URL: https://github.com/pyca/pynacl/blob/master/LICENSE
-
-Full License Text: 
-
-                                  Apache License
+    SOFTWARE."
+pynacl,Apache License Version 2.0,"Apache License
                             Version 2.0, January 2004
                          http://www.apache.org/licenses/
 
@@ -797,38 +559,38 @@ Full License Text:
 
     1. Definitions.
 
-       "License" shall mean the terms and conditions for use, reproduction,
+       ""License"" shall mean the terms and conditions for use, reproduction,
        and distribution as defined by Sections 1 through 9 of this document.
 
-       "Licensor" shall mean the copyright owner or entity authorized by
+       ""Licensor"" shall mean the copyright owner or entity authorized by
        the copyright owner that is granting the License.
 
-       "Legal Entity" shall mean the union of the acting entity and all
+       ""Legal Entity"" shall mean the union of the acting entity and all
        other entities that control, are controlled by, or are under common
        control with that entity. For the purposes of this definition,
-       "control" means (i) the power, direct or indirect, to cause the
+       ""control"" means (i) the power, direct or indirect, to cause the
        direction or management of such entity, whether by contract or
        otherwise, or (ii) ownership of fifty percent (50%) or more of the
        outstanding shares, or (iii) beneficial ownership of such entity.
 
-       "You" (or "Your") shall mean an individual or Legal Entity
+       ""You"" (or ""Your"") shall mean an individual or Legal Entity
        exercising permissions granted by this License.
 
-       "Source" form shall mean the preferred form for making modifications,
+       ""Source"" form shall mean the preferred form for making modifications,
        including but not limited to software source code, documentation
        source, and configuration files.
 
-       "Object" form shall mean any form resulting from mechanical
+       ""Object"" form shall mean any form resulting from mechanical
        transformation or translation of a Source form, including but
        not limited to compiled object code, generated documentation,
        and conversions to other media types.
 
-       "Work" shall mean the work of authorship, whether in Source or
+       ""Work"" shall mean the work of authorship, whether in Source or
        Object form, made available under the License, as indicated by a
        copyright notice that is included in or attached to the work
        (an example is provided in the Appendix below).
 
-       "Derivative Works" shall mean any work, whether in Source or Object
+       ""Derivative Works"" shall mean any work, whether in Source or Object
        form, that is based on (or derived from) the Work and for which the
        editorial revisions, annotations, elaborations, or other modifications
        represent, as a whole, an original work of authorship. For the purposes
@@ -836,21 +598,21 @@ Full License Text:
        separable from, or merely link (or bind by name) to the interfaces of,
        the Work and Derivative Works thereof.
 
-       "Contribution" shall mean any work of authorship, including
+       ""Contribution"" shall mean any work of authorship, including
        the original version of the Work and any modifications or additions
        to that Work or Derivative Works thereof, that is intentionally
        submitted to Licensor for inclusion in the Work by the copyright owner
        or by an individual or Legal Entity authorized to submit on behalf of
-       the copyright owner. For the purposes of this definition, "submitted"
+       the copyright owner. For the purposes of this definition, ""submitted""
        means any form of electronic, verbal, or written communication sent
        to the Licensor or its representatives, including but not limited to
        communication on electronic mailing lists, source code control systems,
        and issue tracking systems that are managed by, or on behalf of, the
        Licensor for the purpose of discussing and improving the Work, but
        excluding communication that is conspicuously marked or otherwise
-       designated in writing by the copyright owner as "Not a Contribution."
+       designated in writing by the copyright owner as ""Not a Contribution.""
 
-       "Contributor" shall mean Licensor and any individual or Legal Entity
+       ""Contributor"" shall mean Licensor and any individual or Legal Entity
        on behalf of whom a Contribution has been received by Licensor and
        subsequently incorporated within the Work.
 
@@ -894,7 +656,7 @@ Full License Text:
            excluding those notices that do not pertain to any part of
            the Derivative Works; and
 
-       (d) If the Work includes a "NOTICE" text file as part of its
+       (d) If the Work includes a ""NOTICE"" text file as part of its
            distribution, then any Derivative Works that You distribute must
            include a readable copy of the attribution notices contained
            within such NOTICE file, excluding those notices that do not
@@ -933,7 +695,7 @@ Full License Text:
 
     7. Disclaimer of Warranty. Unless required by applicable law or
        agreed to in writing, Licensor provides the Work (and each
-       Contributor provides its Contributions) on an "AS IS" BASIS,
+       Contributor provides its Contributions) on an ""AS IS"" BASIS,
        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
        implied, including, without limitation, any warranties or conditions
        of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
@@ -962,20 +724,8 @@ Full License Text:
        of any other Contributor, and only if You agree to indemnify,
        defend, and hold each Contributor harmless for any liability
        incurred by, or claims asserted against, such Contributor by reason
-       of your accepting any such warranty or additional liability.
-
-## Package Name: rq
-### Package Type: python
-
-Status: Currently Used
-
-License: BSD
-
-License URL: https://github.com/nvie/rq/blob/master/LICENSE
-
-Full License Text: 
-
-    Copyright 2012 Vincent Driessen. All rights reserved.
+       of your accepting any such warranty or additional liability."
+rq,BSD,"Copyright 2012 Vincent Driessen. All rights reserved.
 
     Redistribution and use in source and binary forms, with or without modification,
     are permitted provided that the following conditions are met:
@@ -1000,19 +750,10 @@ Full License Text:
 
     The views and conclusions contained in the software and documentation are those
     of the authors and should not be interpreted as representing official policies,
-    either expressed or implied, of Vincent Driessen.
-
-## Package Name: boto
-### Package Type: python
-
-Status: Currently Used
-License: MIT
-License URL: https://github.com/boto/boto/blob/develop/LICENSE
-Full License Text:
-
-    Permission is hereby granted, free of charge, to any person obtaining a
+    either expressed or implied, of Vincent Driessen."
+boto,MIT,"Permission is hereby granted, free of charge, to any person obtaining a
     copy of this software and associated documentation files (the
-    "Software"), to deal in the Software without restriction, including
+    ""Software""), to deal in the Software without restriction, including
     without limitation the rights to use, copy, modify, merge, publish, dis-
     tribute, sublicense, and/or sell copies of the Software, and to permit
     persons to whom the Software is furnished to do so, subject to the fol-
@@ -1021,31 +762,19 @@ Full License Text:
     The above copyright notice and this permission notice shall be included
     in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS
     OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABIL-
     ITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
     SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
     WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-    IN THE SOFTWARE.
-
-## Package Name: pyindent
-### Package Type: python
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/jamiesonbecker/pyindent
-
-Full License Text: 
-
-    The MIT License (MIT)
+    IN THE SOFTWARE."
+pyindent,MIT,"The MIT License (MIT)
 
     Copyright (c) 2015 Jamieson Becker
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
+    of this software and associated documentation files (the ""Software""), to deal
     in the Software without restriction, including without limitation the rights
     to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the Software is
@@ -1054,31 +783,19 @@ Full License Text:
     The above copyright notice and this permission notice shall be included in all
     copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
-
-## Package Name: spooky
-### Package Type: python
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/DomainTools/spooky/blob/master/LICENSE
-
-Full License Text: 
-
-    The MIT License (MIT)
+    SOFTWARE."
+spooky,MIT,"The MIT License (MIT)
 
     Copyright (c) 2013 DomainTools LLC
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of
-    this software and associated documentation files (the "Software"), to deal in
+    this software and associated documentation files (the ""Software""), to deal in
     the Software without restriction, including without limitation the rights to
     use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
     the Software, and to permit persons to whom the Software is furnished to do so,
@@ -1087,29 +804,17 @@ Full License Text:
     The above copyright notice and this permission notice shall be included in all
     copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
     FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
     COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
     IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## Package Name: redis
-### Package Type: python
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/andymccurdy/redis-py/blob/master/LICENSE
-
-Full License Text:
-
-    Copyright (c) 2012 Andy McCurdy
+    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+redis,MIT,"Copyright (c) 2012 Andy McCurdy
 
      Permission is hereby granted, free of charge, to any person
      obtaining a copy of this software and associated documentation
-     files (the "Software"), to deal in the Software without
+     files (the ""Software""), to deal in the Software without
      restriction, including without limitation the rights to use,
      copy, modify, merge, publish, distribute, sublicense, and/or sell
      copies of the Software, and to permit persons to whom the
@@ -1119,27 +824,15 @@ Full License Text:
      The above copyright notice and this permission notice shall be
      included in all copies or substantial portions of the Software.
 
-     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+     THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
      EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
      OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
      NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
      HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
      WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
      FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-     OTHER DEALINGS IN THE SOFTWARE.
-
-## Package Name: pillow
-### Package Type: python
-
-Status: Currently Used
-
-License: Standard PIL License
-
-License URL: https://github.com/python-pillow/Pillow/blob/master/LICENSE
-
-Full License Text: 
-
-    The Python Imaging Library (PIL) is
+     OTHER DEALINGS IN THE SOFTWARE."
+pillow,Standard PIL License,"The Python Imaging Library (PIL) is
 
         Copyright © 1997-2011 by Secret Labs AB
         Copyright © 1995-2011 by Fredrik Lundh
@@ -1168,45 +861,21 @@ Full License Text:
     OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE,
     DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS
     ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS
-    SOFTWARE.
+    SOFTWARE."
+emails,Apache License Version 2.0,"Copyright 2013-2015 Sergey Lavrinenko
 
-## Package Name: emails
-### Package Type: python
-
-Status: Currently Used
-
-License: Apache License Version 2.0
-
-License URL: https://github.com/lavr/python-emails/blob/master/LICENSE
-
-Full License Text: 
-
-    Copyright 2013-2015 Sergey Lavrinenko
-
-       Licensed under the Apache License, Version 2.0 (the "License");
+       Licensed under the Apache License, Version 2.0 (the ""License"");
        you may not use this file except in compliance with the License.
        You may obtain a copy of the License at
 
            http://www.apache.org/licenses/LICENSE-2.0
 
        Unless required by applicable law or agreed to in writing, software
-       distributed under the License is distributed on an "AS IS" BASIS,
+       distributed under the License is distributed on an ""AS IS"" BASIS,
        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
        See the License for the specific language governing permissions and
-       limitations under the License.
-
-## Package Name: pyopenssl
-### Package Type: python
-
-Status: Currently Used
-
-License: Apache License Version 2.0
-
-License URL: https://github.com/pyca/pyopenssl/blob/master/LICENSE
-
-Full License Text: 
-
-                                     Apache License
+       limitations under the License."
+pyopenssl,Apache License Version 2.0,"Apache License
                                Version 2.0, January 2004
                             http://www.apache.org/licenses/
 
@@ -1214,38 +883,38 @@ Full License Text:
 
        1. Definitions.
 
-          "License" shall mean the terms and conditions for use, reproduction,
+          ""License"" shall mean the terms and conditions for use, reproduction,
           and distribution as defined by Sections 1 through 9 of this document.
 
-          "Licensor" shall mean the copyright owner or entity authorized by
+          ""Licensor"" shall mean the copyright owner or entity authorized by
           the copyright owner that is granting the License.
 
-          "Legal Entity" shall mean the union of the acting entity and all
+          ""Legal Entity"" shall mean the union of the acting entity and all
           other entities that control, are controlled by, or are under common
           control with that entity. For the purposes of this definition,
-          "control" means (i) the power, direct or indirect, to cause the
+          ""control"" means (i) the power, direct or indirect, to cause the
           direction or management of such entity, whether by contract or
           otherwise, or (ii) ownership of fifty percent (50%) or more of the
           outstanding shares, or (iii) beneficial ownership of such entity.
 
-          "You" (or "Your") shall mean an individual or Legal Entity
+          ""You"" (or ""Your"") shall mean an individual or Legal Entity
           exercising permissions granted by this License.
 
-          "Source" form shall mean the preferred form for making modifications,
+          ""Source"" form shall mean the preferred form for making modifications,
           including but not limited to software source code, documentation
           source, and configuration files.
 
-          "Object" form shall mean any form resulting from mechanical
+          ""Object"" form shall mean any form resulting from mechanical
           transformation or translation of a Source form, including but
           not limited to compiled object code, generated documentation,
           and conversions to other media types.
 
-          "Work" shall mean the work of authorship, whether in Source or
+          ""Work"" shall mean the work of authorship, whether in Source or
           Object form, made available under the License, as indicated by a
           copyright notice that is included in or attached to the work
           (an example is provided in the Appendix below).
 
-          "Derivative Works" shall mean any work, whether in Source or Object
+          ""Derivative Works"" shall mean any work, whether in Source or Object
           form, that is based on (or derived from) the Work and for which the
           editorial revisions, annotations, elaborations, or other modifications
           represent, as a whole, an original work of authorship. For the purposes
@@ -1253,21 +922,21 @@ Full License Text:
           separable from, or merely link (or bind by name) to the interfaces of,
           the Work and Derivative Works thereof.
 
-          "Contribution" shall mean any work of authorship, including
+          ""Contribution"" shall mean any work of authorship, including
           the original version of the Work and any modifications or additions
           to that Work or Derivative Works thereof, that is intentionally
           submitted to Licensor for inclusion in the Work by the copyright owner
           or by an individual or Legal Entity authorized to submit on behalf of
-          the copyright owner. For the purposes of this definition, "submitted"
+          the copyright owner. For the purposes of this definition, ""submitted""
           means any form of electronic, verbal, or written communication sent
           to the Licensor or its representatives, including but not limited to
           communication on electronic mailing lists, source code control systems,
           and issue tracking systems that are managed by, or on behalf of, the
           Licensor for the purpose of discussing and improving the Work, but
           excluding communication that is conspicuously marked or otherwise
-          designated in writing by the copyright owner as "Not a Contribution."
+          designated in writing by the copyright owner as ""Not a Contribution.""
 
-          "Contributor" shall mean Licensor and any individual or Legal Entity
+          ""Contributor"" shall mean Licensor and any individual or Legal Entity
           on behalf of whom a Contribution has been received by Licensor and
           subsequently incorporated within the Work.
 
@@ -1311,7 +980,7 @@ Full License Text:
               excluding those notices that do not pertain to any part of
               the Derivative Works; and
 
-          (d) If the Work includes a "NOTICE" text file as part of its
+          (d) If the Work includes a ""NOTICE"" text file as part of its
               distribution, then any Derivative Works that You distribute must
               include a readable copy of the attribution notices contained
               within such NOTICE file, excluding those notices that do not
@@ -1350,7 +1019,7 @@ Full License Text:
 
        7. Disclaimer of Warranty. Unless required by applicable law or
           agreed to in writing, Licensor provides the Work (and each
-          Contributor provides its Contributions) on an "AS IS" BASIS,
+          Contributor provides its Contributions) on an ""AS IS"" BASIS,
           WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
           implied, including, without limitation, any warranties or conditions
           of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
@@ -1386,40 +1055,28 @@ Full License Text:
        APPENDIX: How to apply the Apache License to your work.
 
           To apply the Apache License to your work, attach the following
-          boilerplate notice, with the fields enclosed by brackets "[]"
+          boilerplate notice, with the fields enclosed by brackets ""[]""
           replaced with your own identifying information. (Don't include
           the brackets!)  The text should be enclosed in the appropriate
           comment syntax for the file format. We also recommend that a
           file or class name and description of purpose be included on the
-          same "printed page" as the copyright notice for easier
+          same ""printed page"" as the copyright notice for easier
           identification within third-party archives.
 
        Copyright [yyyy] [name of copyright owner]
 
-       Licensed under the Apache License, Version 2.0 (the "License");
+       Licensed under the Apache License, Version 2.0 (the ""License"");
        you may not use this file except in compliance with the License.
        You may obtain a copy of the License at
 
            http://www.apache.org/licenses/LICENSE-2.0
 
        Unless required by applicable law or agreed to in writing, software
-       distributed under the License is distributed on an "AS IS" BASIS,
+       distributed under the License is distributed on an ""AS IS"" BASIS,
        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
        See the License for the specific language governing permissions and
-       limitations under the License.
-
-## Package Name: cryptography
-### Package Type: python
-
-Status: Currently Used
-
-License: BSD
-
-License URL: 
-
-Full License Text: 
-
-    This software is made available under the terms of *either* of the licenses
+       limitations under the License."
+cryptography,BSD,"This software is made available under the terms of *either* of the licenses
     found in LICENSE.APACHE or LICENSE.BSD. Contributions to cryptography are made
     under the terms of *both* these licenses.
 
@@ -1429,24 +1086,12 @@ Full License Text:
 
     LICENSE.APACHE: https://github.com/pyca/cryptography/blob/master/LICENSE.APACHE
     LICENSE.BSD: https://github.com/pyca/cryptography/blob/master/LICENSE.BSD
-    LICENSE.PSF: https://github.com/pyca/cryptography/blob/master/LICENSE.PSF
-
-## Package Name: paste
-### Package Type: python
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://bitbucket.org/ianb/paste/src/0e5a48796ab969d874c6b772c5c33561ac2d1b0d/docs/license.txt?at=default
-
-Full License Text: 
-
-    Copyright (c) 2006-2007 Ian Bicking and Contributors
+    LICENSE.PSF: https://github.com/pyca/cryptography/blob/master/LICENSE.PSF"
+paste,MIT,"Copyright (c) 2006-2007 Ian Bicking and Contributors
 
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the
-    "Software"), to deal in the Software without restriction, including
+    ""Software""), to deal in the Software without restriction, including
     without limitation the rights to use, copy, modify, merge, publish,
     distribute, sublicense, and/or sell copies of the Software, and to
     permit persons to whom the Software is furnished to do so, subject to
@@ -1455,27 +1100,14 @@ Full License Text:
     The above copyright notice and this permission notice shall be
     included in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
     EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
     NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
     LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
     OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## Package Name: apache-libcloud
-### Package Type: python
-
-Status: Currently Used
-
-License: Apache License Version 2.0
-
-License URL: https://github.com/apache/libcloud/blob/trunk/LICENSE
-
-Full License Text: 
-
-
-                                     Apache License
+    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+apache-libcloud,Apache License Version 2.0,"Apache License
                                Version 2.0, January 2004
                             http://www.apache.org/licenses/
 
@@ -1483,38 +1115,38 @@ Full License Text:
 
        1. Definitions.
 
-          "License" shall mean the terms and conditions for use, reproduction,
+          ""License"" shall mean the terms and conditions for use, reproduction,
           and distribution as defined by Sections 1 through 9 of this document.
 
-          "Licensor" shall mean the copyright owner or entity authorized by
+          ""Licensor"" shall mean the copyright owner or entity authorized by
           the copyright owner that is granting the License.
 
-          "Legal Entity" shall mean the union of the acting entity and all
+          ""Legal Entity"" shall mean the union of the acting entity and all
           other entities that control, are controlled by, or are under common
           control with that entity. For the purposes of this definition,
-          "control" means (i) the power, direct or indirect, to cause the
+          ""control"" means (i) the power, direct or indirect, to cause the
           direction or management of such entity, whether by contract or
           otherwise, or (ii) ownership of fifty percent (50%) or more of the
           outstanding shares, or (iii) beneficial ownership of such entity.
 
-          "You" (or "Your") shall mean an individual or Legal Entity
+          ""You"" (or ""Your"") shall mean an individual or Legal Entity
           exercising permissions granted by this License.
 
-          "Source" form shall mean the preferred form for making modifications,
+          ""Source"" form shall mean the preferred form for making modifications,
           including but not limited to software source code, documentation
           source, and configuration files.
 
-          "Object" form shall mean any form resulting from mechanical
+          ""Object"" form shall mean any form resulting from mechanical
           transformation or translation of a Source form, including but
           not limited to compiled object code, generated documentation,
           and conversions to other media types.
 
-          "Work" shall mean the work of authorship, whether in Source or
+          ""Work"" shall mean the work of authorship, whether in Source or
           Object form, made available under the License, as indicated by a
           copyright notice that is included in or attached to the work
           (an example is provided in the Appendix below).
 
-          "Derivative Works" shall mean any work, whether in Source or Object
+          ""Derivative Works"" shall mean any work, whether in Source or Object
           form, that is based on (or derived from) the Work and for which the
           editorial revisions, annotations, elaborations, or other modifications
           represent, as a whole, an original work of authorship. For the purposes
@@ -1522,21 +1154,21 @@ Full License Text:
           separable from, or merely link (or bind by name) to the interfaces of,
           the Work and Derivative Works thereof.
 
-          "Contribution" shall mean any work of authorship, including
+          ""Contribution"" shall mean any work of authorship, including
           the original version of the Work and any modifications or additions
           to that Work or Derivative Works thereof, that is intentionally
           submitted to Licensor for inclusion in the Work by the copyright owner
           or by an individual or Legal Entity authorized to submit on behalf of
-          the copyright owner. For the purposes of this definition, "submitted"
+          the copyright owner. For the purposes of this definition, ""submitted""
           means any form of electronic, verbal, or written communication sent
           to the Licensor or its representatives, including but not limited to
           communication on electronic mailing lists, source code control systems,
           and issue tracking systems that are managed by, or on behalf of, the
           Licensor for the purpose of discussing and improving the Work, but
           excluding communication that is conspicuously marked or otherwise
-          designated in writing by the copyright owner as "Not a Contribution."
+          designated in writing by the copyright owner as ""Not a Contribution.""
 
-          "Contributor" shall mean Licensor and any individual or Legal Entity
+          ""Contributor"" shall mean Licensor and any individual or Legal Entity
           on behalf of whom a Contribution has been received by Licensor and
           subsequently incorporated within the Work.
 
@@ -1580,7 +1212,7 @@ Full License Text:
               excluding those notices that do not pertain to any part of
               the Derivative Works; and
 
-          (d) If the Work includes a "NOTICE" text file as part of its
+          (d) If the Work includes a ""NOTICE"" text file as part of its
               distribution, then any Derivative Works that You distribute must
               include a readable copy of the attribution notices contained
               within such NOTICE file, excluding those notices that do not
@@ -1619,7 +1251,7 @@ Full License Text:
 
        7. Disclaimer of Warranty. Unless required by applicable law or
           agreed to in writing, Licensor provides the Work (and each
-          Contributor provides its Contributions) on an "AS IS" BASIS,
+          Contributor provides its Contributions) on an ""AS IS"" BASIS,
           WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
           implied, including, without limitation, any warranties or conditions
           of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
@@ -1655,43 +1287,31 @@ Full License Text:
        APPENDIX: How to apply the Apache License to your work.
 
           To apply the Apache License to your work, attach the following
-          boilerplate notice, with the fields enclosed by brackets "[]"
+          boilerplate notice, with the fields enclosed by brackets ""[]""
           replaced with your own identifying information. (Don't include
           the brackets!)  The text should be enclosed in the appropriate
           comment syntax for the file format. We also recommend that a
           file or class name and description of purpose be included on the
-          same "printed page" as the copyright notice for easier
+          same ""printed page"" as the copyright notice for easier
           identification within third-party archives.
 
        Copyright [yyyy] [name of copyright owner]
 
-       Licensed under the Apache License, Version 2.0 (the "License");
+       Licensed under the Apache License, Version 2.0 (the ""License"");
        you may not use this file except in compliance with the License.
        You may obtain a copy of the License at
 
            http://www.apache.org/licenses/LICENSE-2.0
 
        Unless required by applicable law or agreed to in writing, software
-       distributed under the License is distributed on an "AS IS" BASIS,
+       distributed under the License is distributed on an ""AS IS"" BASIS,
        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
        See the License for the specific language governing permissions and
-       limitations under the License.
-
-## Package Name: service_identity
-### Package Type: python
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/pyca/service_identity/blob/master/LICENSE
-
-Full License Text: 
-
-    Copyright (c) 2014 Hynek Schlawack
+       limitations under the License."
+service_identity,MIT,"Copyright (c) 2014 Hynek Schlawack
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of
-    this software and associated documentation files (the "Software"), to deal in
+    this software and associated documentation files (the ""Software""), to deal in
     the Software without restriction, including without limitation the rights to
     use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
     of the Software, and to permit persons to whom the Software is furnished to do
@@ -1700,30 +1320,21 @@ Full License Text:
     The above copyright notice and this permission notice shall be included in all
     copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
-
-## Package Name: ldaptor
-### Package Type: python
-
-Status: Currently Used
-License: MIT
-License URL: https://github.com/twisted/ldaptor/blob/master/LICENSE
-Full License Text: 
-
-    Copyright (c) 2002-2014, Ldaptor Contributors (see AUTHORS)
+    SOFTWARE."
+ldaptor,MIT,"Copyright (c) 2002-2014, Ldaptor Contributors (see AUTHORS)
 
     Ldaptor is licensed under the MIT license for the majority of the
     files, with exceptions listed below.
 
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the
-    "Software"), to deal in the Software without restriction, including
+    ""Software""), to deal in the Software without restriction, including
     without limitation the rights to use, copy, modify, merge, publish,
     distribute, sublicense, and/or sell copies of the Software, and to
     permit persons to whom the Software is furnished to do so, subject to
@@ -1732,7 +1343,7 @@ Full License Text:
     The above copyright notice and this permission notice shall be
     included in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
     EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
     NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
@@ -1766,7 +1377,7 @@ Full License Text:
           from this software without specific prior written permission.
 
         THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-        "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+        ""AS IS"" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
         LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
         A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
         OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
@@ -1775,27 +1386,14 @@ Full License Text:
         DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
         THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
         (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-        OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
-## Package Name: unframework.js
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/jamiesonbecker/unframework.js/blob/master/LICENSE
-
-Full License Text: 
-
-    Copyright (c) 2017 Jamieson Becker
+        OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+unframework.js,MIT,"Copyright (c) 2017 Jamieson Becker
 
     The MIT License
 
     Permission is hereby granted, free of charge, to any person 
     obtaining a copy of this software and associated documentation 
-    files (the "Software"), to deal in the Software without 
+    files (the ""Software""), to deal in the Software without 
     restriction, including without limitation the rights to use, 
     copy, modify, merge, publish, distribute, sublicense, and/or 
     sell copies of the Software, and to permit persons to whom the 
@@ -1804,28 +1402,14 @@ Full License Text:
     The above copyright notice and this permission notice shall be included 
     in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
     OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
     THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING 
     FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
-    DEALINGS IN THE SOFTWARE.
-
-
-## Package Name: bootstrap-datepicker.js
-### Package Type: javascript
-
-Status: Currently Used
-
-License: Apache License Version 2.0
-
-License URL: https://github.com/uxsolutions/bootstrap-datepicker/blob/master/LICENSE
-
-Full License Text: 
-
-
-                                     Apache License
+    DEALINGS IN THE SOFTWARE."
+bootstrap-datepicker.js,Apache License Version 2.0,"Apache License
                                Version 2.0, January 2004
                             http://www.apache.org/licenses/
 
@@ -1833,38 +1417,38 @@ Full License Text:
 
        1. Definitions.
 
-          "License" shall mean the terms and conditions for use, reproduction,
+          ""License"" shall mean the terms and conditions for use, reproduction,
           and distribution as defined by Sections 1 through 9 of this document.
 
-          "Licensor" shall mean the copyright owner or entity authorized by
+          ""Licensor"" shall mean the copyright owner or entity authorized by
           the copyright owner that is granting the License.
 
-          "Legal Entity" shall mean the union of the acting entity and all
+          ""Legal Entity"" shall mean the union of the acting entity and all
           other entities that control, are controlled by, or are under common
           control with that entity. For the purposes of this definition,
-          "control" means (i) the power, direct or indirect, to cause the
+          ""control"" means (i) the power, direct or indirect, to cause the
           direction or management of such entity, whether by contract or
           otherwise, or (ii) ownership of fifty percent (50%) or more of the
           outstanding shares, or (iii) beneficial ownership of such entity.
 
-          "You" (or "Your") shall mean an individual or Legal Entity
+          ""You"" (or ""Your"") shall mean an individual or Legal Entity
           exercising permissions granted by this License.
 
-          "Source" form shall mean the preferred form for making modifications,
+          ""Source"" form shall mean the preferred form for making modifications,
           including but not limited to software source code, documentation
           source, and configuration files.
 
-          "Object" form shall mean any form resulting from mechanical
+          ""Object"" form shall mean any form resulting from mechanical
           transformation or translation of a Source form, including but
           not limited to compiled object code, generated documentation,
           and conversions to other media types.
 
-          "Work" shall mean the work of authorship, whether in Source or
+          ""Work"" shall mean the work of authorship, whether in Source or
           Object form, made available under the License, as indicated by a
           copyright notice that is included in or attached to the work
           (an example is provided in the Appendix below).
 
-          "Derivative Works" shall mean any work, whether in Source or Object
+          ""Derivative Works"" shall mean any work, whether in Source or Object
           form, that is based on (or derived from) the Work and for which the
           editorial revisions, annotations, elaborations, or other modifications
           represent, as a whole, an original work of authorship. For the purposes
@@ -1872,21 +1456,21 @@ Full License Text:
           separable from, or merely link (or bind by name) to the interfaces of,
           the Work and Derivative Works thereof.
 
-          "Contribution" shall mean any work of authorship, including
+          ""Contribution"" shall mean any work of authorship, including
           the original version of the Work and any modifications or additions
           to that Work or Derivative Works thereof, that is intentionally
           submitted to Licensor for inclusion in the Work by the copyright owner
           or by an individual or Legal Entity authorized to submit on behalf of
-          the copyright owner. For the purposes of this definition, "submitted"
+          the copyright owner. For the purposes of this definition, ""submitted""
           means any form of electronic, verbal, or written communication sent
           to the Licensor or its representatives, including but not limited to
           communication on electronic mailing lists, source code control systems,
           and issue tracking systems that are managed by, or on behalf of, the
           Licensor for the purpose of discussing and improving the Work, but
           excluding communication that is conspicuously marked or otherwise
-          designated in writing by the copyright owner as "Not a Contribution."
+          designated in writing by the copyright owner as ""Not a Contribution.""
 
-          "Contributor" shall mean Licensor and any individual or Legal Entity
+          ""Contributor"" shall mean Licensor and any individual or Legal Entity
           on behalf of whom a Contribution has been received by Licensor and
           subsequently incorporated within the Work.
 
@@ -1930,7 +1514,7 @@ Full License Text:
               excluding those notices that do not pertain to any part of
               the Derivative Works; and
 
-          (d) If the Work includes a "NOTICE" text file as part of its
+          (d) If the Work includes a ""NOTICE"" text file as part of its
               distribution, then any Derivative Works that You distribute must
               include a readable copy of the attribution notices contained
               within such NOTICE file, excluding those notices that do not
@@ -1969,7 +1553,7 @@ Full License Text:
 
        7. Disclaimer of Warranty. Unless required by applicable law or
           agreed to in writing, Licensor provides the Work (and each
-          Contributor provides its Contributions) on an "AS IS" BASIS,
+          Contributor provides its Contributions) on an ""AS IS"" BASIS,
           WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
           implied, including, without limitation, any warranties or conditions
           of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
@@ -2005,46 +1589,33 @@ Full License Text:
        APPENDIX: How to apply the Apache License to your work.
 
           To apply the Apache License to your work, attach the following
-          boilerplate notice, with the fields enclosed by brackets "[]"
+          boilerplate notice, with the fields enclosed by brackets ""[]""
           replaced with your own identifying information. (Don't include
           the brackets!)  The text should be enclosed in the appropriate
           comment syntax for the file format. We also recommend that a
           file or class name and description of purpose be included on the
-          same "printed page" as the copyright notice for easier
+          same ""printed page"" as the copyright notice for easier
           identification within third-party archives.
 
        Copyright [yyyy] [name of copyright owner]
 
-       Licensed under the Apache License, Version 2.0 (the "License");
+       Licensed under the Apache License, Version 2.0 (the ""License"");
        you may not use this file except in compliance with the License.
        You may obtain a copy of the License at
 
            http://www.apache.org/licenses/LICENSE-2.0
 
        Unless required by applicable law or agreed to in writing, software
-       distributed under the License is distributed on an "AS IS" BASIS,
+       distributed under the License is distributed on an ""AS IS"" BASIS,
        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
        See the License for the specific language governing permissions and
-       limitations under the License.
-
-
-## Package Name: Bootstrap
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/twbs/bootstrap/blob/master/LICENSE
-
-Full License Text: 
-
-    The MIT License (MIT)
+       limitations under the License."
+Bootstrap,MIT,"The MIT License (MIT)
 
     Copyright (c) 2011-2016 Twitter, Inc.
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
+    of this software and associated documentation files (the ""Software""), to deal
     in the Software without restriction, including without limitation the rights
     to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the Software is
@@ -2053,50 +1624,26 @@ Full License Text:
     The above copyright notice and this permission notice shall be included in
     all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-    THE SOFTWARE.
-
-## Package Name: Chart.js
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/chartjs/Chart.js/blob/master/LICENSE.md
-
-Full License Text: 
-
-    The MIT License (MIT)
+    THE SOFTWARE."
+Chart.js,MIT,"The MIT License (MIT)
 
     Copyright (c) 2013-2017 Nick Downie
 
-    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ""Software""), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## Package Name: Crumble.js
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/tommoor/crumble
-
-Full License Text: 
-
-    Crumble is released under the MIT license. It is simple and easy to understand and places almost no restrictions on what you can do with Crumble. (linked):
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+Crumble.js,MIT,"Crumble is released under the MIT license. It is simple and easy to understand and places almost no restrictions on what you can do with Crumble. (linked):
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
+    of this software and associated documentation files (the ""Software""), to deal
     in the Software without restriction, including without limitation the rights
     to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the Software is
@@ -2105,52 +1652,26 @@ Full License Text:
     The above copyright notice and this permission notice shall be included in all
     copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
+    SOFTWARE."
+DataTables,MIT,"Copyright (C) 2008-2017, SpryMedia Ltd.
 
-
-## Package Name: DataTables
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://datatables.net/license/mit
-
-Full License Text: 
-
-    Copyright (C) 2008-2017, SpryMedia Ltd.
-
-    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ""Software""), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-## Package Name: Dragula.js
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/bevacqua/dragula/blob/master/license
-
-Full License Text: 
-
-    The MIT License (MIT)
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+Dragula.js,MIT,"The MIT License (MIT)
 
     Copyright © 2015-2016 Nicolas Bevacqua
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of
-    this software and associated documentation files (the "Software"), to deal in
+    this software and associated documentation files (the ""Software""), to deal in
     the Software without restriction, including without limitation the rights to
     use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
     the Software, and to permit persons to whom the Software is furnished to do so,
@@ -2159,60 +1680,22 @@ Full License Text:
     The above copyright notice and this permission notice shall be included in all
     copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
     FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
     COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
     IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-## Package Name: equalize.js
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT,GPL2
-
-License URL: https://github.com/tsvensen/equalize.js/
-
-Full License Text: 
-
-Author & copyright (c) 2012: Tim Svensen
-Dual MIT & GPLv2 license
-
-## Package Name: DoubleScroll
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT,GPL
-
-License URL: https://github.com/avianey/jqDoubleScroll
-
-Full License Text: 
-
-    Dual licensed under the MIT and GPL licenses:
+    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+equalize.js,"MIT,GPL2","Author & copyright (c) 2012: Tim Svensen
+Dual MIT & GPLv2 license"
+DoubleScroll,"MIT,GPL","Dual licensed under the MIT and GPL licenses:
     http://www.opensource.org/licenses/mit-license.php
-    http://www.gnu.org/licenses/gpl.html
-
-
-## Package Name: qtip2
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/qTip2/qTip2/blob/master/LICENSE
-
-Full License Text: 
-
-    Copyright (c) 2012 Craig Michael Thompson
+    http://www.gnu.org/licenses/gpl.html"
+qtip2,MIT,"Copyright (c) 2012 Craig Michael Thompson
 
     Permission is hereby granted, free of charge, to any person
     obtaining a copy of this software and associated documentation
-    files (the "Software"), to deal in the Software without
+    files (the ""Software""), to deal in the Software without
     restriction, including without limitation the rights to use,
     copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the
@@ -2222,31 +1705,19 @@ Full License Text:
     The above copyright notice and this permission notice shall be
     included in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
     EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
     OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
     NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
     HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
     WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
     FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-    OTHER DEALINGS IN THE SOFTWARE.
-
-## Package Name: jquery.scrollbar
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/gromo/jquery.scrollbar/blob/master/license-mit.txt
-
-Full License Text: 
-
-    Copyright (c) 2013 Yuriy Khabarov <13real008@gmail.com>
+    OTHER DEALINGS IN THE SOFTWARE."
+jquery.scrollbar,MIT,"Copyright (c) 2013 Yuriy Khabarov <13real008@gmail.com>
 
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the
-    "Software"), to deal in the Software without restriction, including
+    ""Software""), to deal in the Software without restriction, including
     without limitation the rights to use, copy, modify, merge, publish,
     distribute, sublicense, and/or sell copies of the Software, and to
     permit persons to whom the Software is furnished to do so, subject to
@@ -2255,33 +1726,20 @@ Full License Text:
     The above copyright notice and this permission notice shall be
     included in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
     EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
     NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
     LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
     OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-## Package Name: jquery.timeago
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/rmm5t/jquery-timeago/blob/master/LICENSE.txt
-
-Full License Text: 
-
-    Copyright (c) 2008-2017 Ryan McGeary
+    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+jquery.timeago,MIT,"Copyright (c) 2008-2017 Ryan McGeary
 
     MIT License
 
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the
-    "Software"), to deal in the Software without restriction, including
+    ""Software""), to deal in the Software without restriction, including
     without limitation the rights to use, copy, modify, merge, publish,
     distribute, sublicense, and/or sell copies of the Software, and to
     permit persons to whom the Software is furnished to do so, subject to
@@ -2290,31 +1748,18 @@ Full License Text:
     The above copyright notice and this permission notice shall be
     included in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
     EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
     NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
     LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
     OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-## Package Name: Javascript Cookie
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/js-cookie/js-cookie/blob/master/MIT-LICENSE.txt
-
-Full License Text: 
-
-    Copyright 2014 Klaus Hartl
+    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+Javascript Cookie,MIT,"Copyright 2014 Klaus Hartl
 
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the
-    "Software"), to deal in the Software without restriction, including
+    ""Software""), to deal in the Software without restriction, including
     without limitation the rights to use, copy, modify, merge, publish,
     distribute, sublicense, and/or sell copies of the Software, and to
     permit persons to whom the Software is furnished to do so, subject to
@@ -2323,82 +1768,30 @@ Full License Text:
     The above copyright notice and this permission notice shall be
     included in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
     EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
     NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
     LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
     OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-## Package Name: json2.js
-### Package Type: javascript
-
-Status: Currently Used
-
-License: Public Domain
-
-License URL: https://github.com/douglascrockford/JSON-js/blob/master/json2.js
-
-Full License Text: 
-
-    Public Domain.
-    NO WARRANTY EXPRESSED OR IMPLIED. USE AT YOUR OWN RISK.
-
-
-## Package Name: md5
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/blueimp/JavaScript-MD5
-
-Full License Text: 
-
-    License
-    The JavaScript MD5 script is released under the MIT license.
-
-
-## Package Name: push.js
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/Nickersoft/push.js/blob/master/LICENSE.md
-
-Full License Text: 
-
-    The MIT License (MIT)
+    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+json2.js,Public Domain,"Public Domain.
+    NO WARRANTY EXPRESSED OR IMPLIED. USE AT YOUR OWN RISK."
+md5,MIT,"License
+    The JavaScript MD5 script is released under the MIT license."
+push.js,MIT,"The MIT License (MIT)
 
     Copyright (c) 2016 Tyler Nickerson
 
-    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ""Software""), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-## Package Name: perfect-scrollbar
-### Package Type: javascript
-
-Status: Phasing in
-
-License: MIT
-
-License URL: https://github.com/noraesae/perfect-scrollbar/blob/master/LICENSE
-
-Full License Text: 
-
-    The MIT License (MIT) Copyright (c) 2012-2016 Hyunje Jun and other contributors
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+perfect-scrollbar,MIT,"The MIT License (MIT) Copyright (c) 2012-2016 Hyunje Jun and other contributors
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of
-    this software and associated documentation files (the "Software"), to deal in
+    this software and associated documentation files (the ""Software""), to deal in
     the Software without restriction, including without limitation the rights to
     use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
     of the Software, and to permit persons to whom the Software is furnished to do
@@ -2407,31 +1800,17 @@ Full License Text:
     The above copyright notice and this permission notice shall be included in all
     copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
-
-
-
-## Package Name: pace.js
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/HubSpot/pace/blob/master/LICENSE
-
-Full License Text: 
-
-    Copyright (c) 2013 HubSpot, Inc.
+    SOFTWARE."
+pace.js,MIT,"Copyright (c) 2013 HubSpot, Inc.
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of
-    this software and associated documentation files (the "Software"), to deal in
+    this software and associated documentation files (the ""Software""), to deal in
     the Software without restriction, including without limitation the rights to
     use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
     of the Software, and to permit persons to whom the Software is furnished to do
@@ -2440,33 +1819,18 @@ Full License Text:
     The above copyright notice and this permission notice shall be included in all
     copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
-
-
-
-
-## Package Name: jquery-placeholder
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/mathiasbynens/jquery-placeholder/blob/gh-pages/LICENSE.txt
-
-Full License Text: 
-
-    Copyright Mathias Bynens <http://mathiasbynens.be/>
+    SOFTWARE."
+jquery-placeholder,MIT,"Copyright Mathias Bynens <http://mathiasbynens.be/>
 
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the
-    "Software"), to deal in the Software without restriction, including
+    ""Software""), to deal in the Software without restriction, including
     without limitation the rights to use, copy, modify, merge, publish,
     distribute, sublicense, and/or sell copies of the Software, and to
     permit persons to whom the Software is furnished to do so, subject to
@@ -2475,31 +1839,19 @@ Full License Text:
     The above copyright notice and this permission notice shall be
     included in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
     EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
     NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
     LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
     OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## Package Name: prism.js
-### Package Type: javascript
-
-Status: Phasing out
-
-License: MIT
-
-License URL: https://github.com/PrismJS/prism/blob/gh-pages/LICENSE
-
-Full License Text:
-
-    MIT LICENSE
+    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+prism.js,MIT,"MIT LICENSE
 
     Copyright (c) 2012 Lea Verou
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
+    of this software and associated documentation files (the ""Software""), to deal
     in the Software without restriction, including without limitation the rights
     to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the Software is
@@ -2508,27 +1860,14 @@ Full License Text:
     The above copyright notice and this permission notice shall be included in
     all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-    THE SOFTWARE.
-
-
-## Package Name: Highlight.js
-### Package Type: javascript
-
-Status: Included in Userify 5.0 and later
-
-License: MIT
-
-License URL: https://github.com/isagalaev/highlight.js/blob/master/LICENSE
-
-Full License Text: 
-
-    Copyright (c) 2006, Ivan Sagalaev
+    THE SOFTWARE."
+Highlight.js,MIT,"Copyright (c) 2006, Ivan Sagalaev
     All rights reserved.
     Redistribution and use in source and binary forms, with or without
     modification, are permitted provided that the following conditions are met:
@@ -2551,23 +1890,10 @@ Full License Text:
     LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
     ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
     (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
-## Package Name: Q
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/kriskowal/q/blob/master/LICENSE
-
-Full License Text: 
-
-    Copyright 2009–2017 Kristopher Michael Kowal. All rights reserved.
+    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+Q,MIT,"Copyright 2009–2017 Kristopher Michael Kowal. All rights reserved.
     Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to
+    of this software and associated documentation files (the ""Software""), to
     deal in the Software without restriction, including without limitation the
     rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
     sell copies of the Software, and to permit persons to whom the Software is
@@ -2576,32 +1902,19 @@ Full License Text:
     The above copyright notice and this permission notice shall be included in
     all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
     FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-    IN THE SOFTWARE.
-
-
-## Package Name: safify.js
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/jamiesonbecker/safify.js/blob/master/LICENSE
-
-Full License Text: 
-
-    Copyright 2013 Jamieson Becker
+    IN THE SOFTWARE."
+safify.js,MIT,"Copyright 2013 Jamieson Becker
     https://github.com/jamiesonbecker/safify.js
 
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the
-    "Software"), to deal in the Software without restriction, including
+    ""Software""), to deal in the Software without restriction, including
     without limitation the rights to use, copy, modify, merge, publish,
     distribute, sublicense, and/or sell copies of the Software, and to
     permit persons to whom the Software is furnished to do so, subject to
@@ -2610,26 +1923,14 @@ Full License Text:
     The above copyright notice and this permission notice shall be
     included in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
     EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
     NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
     LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
     OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## Package Name: jsSHA
-### Package Type: javascript
-
-Status: Currently Used
-
-License: BSD
-
-License URL: https://github.com/Caligatio/jsSHA/blob/v2.3.1/LICENSE
-
-Full License Text: 
-
-    Copyright (c) 2008-2017, Brian Turek
+    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+jsSHA,BSD,"Copyright (c) 2008-2017, Brian Turek
     All rights reserved.
 
     Redistribution and use in source and binary forms, with or without
@@ -2644,7 +1945,7 @@ Full License Text:
        contributors may be used to endorse or promote products derived from this
        software without specific prior written permission.
 
-    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ""AS IS""
     AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
     IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
     DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
@@ -2663,25 +1964,12 @@ Full License Text:
     Copyright (c) 1998 - 2009, Paul Johnston & Contributors
     All rights reserved.
 
-    Original code is available on http://pajhome.org.uk/crypt/md5
-
-
-## Package Name: startswith
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/mathiasbynens/String.prototype.startsWith/blob/master/LICENSE-MIT.txt
-
-Full License Text: 
-
-    Copyright Mathias Bynens <https://mathiasbynens.be/>
+    Original code is available on http://pajhome.org.uk/crypt/md5"
+startswith,MIT,"Copyright Mathias Bynens <https://mathiasbynens.be/>
 
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the
-    "Software"), to deal in the Software without restriction, including
+    ""Software""), to deal in the Software without restriction, including
     without limitation the rights to use, copy, modify, merge, publish,
     distribute, sublicense, and/or sell copies of the Software, and to
     permit persons to whom the Software is furnished to do so, subject to
@@ -2690,33 +1978,19 @@ Full License Text:
     The above copyright notice and this permission notice shall be
     included in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
     EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
     NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
     LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
     OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-
-## Package Name: SweetAlert
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/t4t5/sweetalert/blob/master/LICENSE
-
-Full License Text: 
-
-    The MIT License (MIT)
+    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+SweetAlert,MIT,"The MIT License (MIT)
 
     Copyright (c) 2014 Tristan Edwards
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
+    of this software and associated documentation files (the ""Software""), to deal
     in the Software without restriction, including without limitation the rights
     to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the Software is
@@ -2725,30 +1999,18 @@ Full License Text:
     The above copyright notice and this permission notice shall be included in all
     copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
-
-## Package Name: tanchor
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/draeton/tanchor/blob/master/LICENSE
-
-Full License Text: 
-
-    Copyright (c) 2013, Matthew Cobbs
+    SOFTWARE."
+tanchor,MIT,"Copyright (c) 2013, Matthew Cobbs
 
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the
-    "Software"), to deal in the Software without restriction, including
+    ""Software""), to deal in the Software without restriction, including
     without limitation the rights to use, copy, modify, merge, publish,
     distribute, sublicense, and/or sell copies of the Software, and to
     permit persons to whom the Software is furnished to do so, subject to
@@ -2757,31 +2019,19 @@ Full License Text:
     The above copyright notice and this permission notice shall be included
     in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS
     OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
     IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
     CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
     TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-    SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## Package Name: underscore.js
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/jashkenas/underscore/blob/master/LICENSE
-
-Full License Text: 
-
-    Copyright (c) 2009-2017 Jeremy Ashkenas, DocumentCloud and Investigative
+    SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+underscore.js,MIT,"Copyright (c) 2009-2017 Jeremy Ashkenas, DocumentCloud and Investigative
     Reporters & Editors
 
     Permission is hereby granted, free of charge, to any person
     obtaining a copy of this software and associated documentation
-    files (the "Software"), to deal in the Software without
+    files (the ""Software""), to deal in the Software without
     restriction, including without limitation the rights to use,
     copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the
@@ -2791,53 +2041,29 @@ Full License Text:
     The above copyright notice and this permission notice shall be
     included in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
     EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
     OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
     NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
     HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
     WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
     FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-    OTHER DEALINGS IN THE SOFTWARE.
-
-## Package Name: underscore.string.min.js
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/epeli/underscore.string
-
-Full License Text: 
-
-    The MIT License
+    OTHER DEALINGS IN THE SOFTWARE."
+underscore.string.min.js,MIT,"The MIT License
 
     Copyright (c) 2011 Esa-Matti Suuronen esa-matti@suuronen.org
 
-    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ""Software""), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## Package Name: velocity.JS
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/julianshapiro/velocity/blob/master/LICENSE.md
-
-Full License Text: 
-
-    The MIT License
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+velocity.JS,MIT,"The MIT License
 
     Copyright (c) 2014 Julian Shapiro
 
     Permission is hereby granted, free of charge, to any person obtaining a
-    copy of this software and associated documentation files (the "Software"), to
+    copy of this software and associated documentation files (the ""Software""), to
     deal in the Software without restriction, including without limitation the
     rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
     sell copies of the Software, and to permit persons to whom the Software is
@@ -2845,26 +2071,14 @@ Full License Text:
 
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
-
-## Package Name: jQuery
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/jquery/jquery/blob/master/LICENSE.txt
-
-Full License Text: 
-
-    Copyright JS Foundation and other contributors, https://js.foundation/
+    SOFTWARE."
+jQuery,MIT,"Copyright JS Foundation and other contributors, https://js.foundation/
 
     This software consists of voluntary contributions made by many
     individuals. For exact contribution history, see the revision history
@@ -2877,7 +2091,7 @@ Full License Text:
 
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the
-    "Software"), to deal in the Software without restriction, including
+    ""Software""), to deal in the Software without restriction, including
     without limitation the rights to use, copy, modify, merge, publish,
     distribute, sublicense, and/or sell copies of the Software, and to
     permit persons to whom the Software is furnished to do so, subject to
@@ -2886,7 +2100,7 @@ Full License Text:
     The above copyright notice and this permission notice shall be
     included in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
     EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
     NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
@@ -2899,24 +2113,12 @@ Full License Text:
     All files located in the node_modules and external directories are
     externally maintained libraries used by this software which have their
     own licenses; we recommend you read them, as their terms may differ from
-    the terms above.
-
-## Package Name: X-editable
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/vitalets/x-editable/blob/develop/LICENSE-MIT
-
-Full License Text: 
-
-    Copyright (c) 2012 Vitaliy Potapov
+    the terms above."
+X-editable,MIT,"Copyright (c) 2012 Vitaliy Potapov
 
     Permission is hereby granted, free of charge, to any person
     obtaining a copy of this software and associated documentation
-    files (the "Software"), to deal in the Software without
+    files (the ""Software""), to deal in the Software without
     restriction, including without limitation the rights to use,
     copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the
@@ -2926,30 +2128,18 @@ Full License Text:
     The above copyright notice and this permission notice shall be
     included in all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
     EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
     OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
     NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
     HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
     WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
     FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-    OTHER DEALINGS IN THE SOFTWARE.
-
-## Package Name: CSS Element Queries
-### Package Type: javascript
-
-Status: Currently Used
-
-License: MIT
-
-License URL: https://github.com/marcj/css-element-queries/blob/master/LICENSE
-
-Full License Text: 
-
-    Copyright (c) 2013 Marc J. Schmidt
+    OTHER DEALINGS IN THE SOFTWARE."
+CSS Element Queries,MIT,"Copyright (c) 2013 Marc J. Schmidt
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
+    of this software and associated documentation files (the ""Software""), to deal
     in the Software without restriction, including without limitation the rights
     to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the Software is
@@ -2958,27 +2148,14 @@ Full License Text:
     The above copyright notice and this permission notice shall be included in
     all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-    THE SOFTWARE.
-
-
-## Package Name: Roboto
-### Package Type: font
-
-Status: Currently Used
-
-License: Apache License Version 2.0
-
-License URL: https://github.com/google/roboto/blob/master/LICENSE
-
-Full License Text: 
-
-                                     Apache License
+    THE SOFTWARE."
+Roboto,Apache License Version 2.0,"Apache License
                                Version 2.0, January 2004
                             http://www.apache.org/licenses/
 
@@ -2986,38 +2163,38 @@ Full License Text:
 
        1. Definitions.
 
-          "License" shall mean the terms and conditions for use, reproduction,
+          ""License"" shall mean the terms and conditions for use, reproduction,
           and distribution as defined by Sections 1 through 9 of this document.
 
-          "Licensor" shall mean the copyright owner or entity authorized by
+          ""Licensor"" shall mean the copyright owner or entity authorized by
           the copyright owner that is granting the License.
 
-          "Legal Entity" shall mean the union of the acting entity and all
+          ""Legal Entity"" shall mean the union of the acting entity and all
           other entities that control, are controlled by, or are under common
           control with that entity. For the purposes of this definition,
-          "control" means (i) the power, direct or indirect, to cause the
+          ""control"" means (i) the power, direct or indirect, to cause the
           direction or management of such entity, whether by contract or
           otherwise, or (ii) ownership of fifty percent (50%) or more of the
           outstanding shares, or (iii) beneficial ownership of such entity.
 
-          "You" (or "Your") shall mean an individual or Legal Entity
+          ""You"" (or ""Your"") shall mean an individual or Legal Entity
           exercising permissions granted by this License.
 
-          "Source" form shall mean the preferred form for making modifications,
+          ""Source"" form shall mean the preferred form for making modifications,
           including but not limited to software source code, documentation
           source, and configuration files.
 
-          "Object" form shall mean any form resulting from mechanical
+          ""Object"" form shall mean any form resulting from mechanical
           transformation or translation of a Source form, including but
           not limited to compiled object code, generated documentation,
           and conversions to other media types.
 
-          "Work" shall mean the work of authorship, whether in Source or
+          ""Work"" shall mean the work of authorship, whether in Source or
           Object form, made available under the License, as indicated by a
           copyright notice that is included in or attached to the work
           (an example is provided in the Appendix below).
 
-          "Derivative Works" shall mean any work, whether in Source or Object
+          ""Derivative Works"" shall mean any work, whether in Source or Object
           form, that is based on (or derived from) the Work and for which the
           editorial revisions, annotations, elaborations, or other modifications
           represent, as a whole, an original work of authorship. For the purposes
@@ -3025,21 +2202,21 @@ Full License Text:
           separable from, or merely link (or bind by name) to the interfaces of,
           the Work and Derivative Works thereof.
 
-          "Contribution" shall mean any work of authorship, including
+          ""Contribution"" shall mean any work of authorship, including
           the original version of the Work and any modifications or additions
           to that Work or Derivative Works thereof, that is intentionally
           submitted to Licensor for inclusion in the Work by the copyright owner
           or by an individual or Legal Entity authorized to submit on behalf of
-          the copyright owner. For the purposes of this definition, "submitted"
+          the copyright owner. For the purposes of this definition, ""submitted""
           means any form of electronic, verbal, or written communication sent
           to the Licensor or its representatives, including but not limited to
           communication on electronic mailing lists, source code control systems,
           and issue tracking systems that are managed by, or on behalf of, the
           Licensor for the purpose of discussing and improving the Work, but
           excluding communication that is conspicuously marked or otherwise
-          designated in writing by the copyright owner as "Not a Contribution."
+          designated in writing by the copyright owner as ""Not a Contribution.""
 
-          "Contributor" shall mean Licensor and any individual or Legal Entity
+          ""Contributor"" shall mean Licensor and any individual or Legal Entity
           on behalf of whom a Contribution has been received by Licensor and
           subsequently incorporated within the Work.
 
@@ -3083,7 +2260,7 @@ Full License Text:
               excluding those notices that do not pertain to any part of
               the Derivative Works; and
 
-          (d) If the Work includes a "NOTICE" text file as part of its
+          (d) If the Work includes a ""NOTICE"" text file as part of its
               distribution, then any Derivative Works that You distribute must
               include a readable copy of the attribution notices contained
               within such NOTICE file, excluding those notices that do not
@@ -3122,7 +2299,7 @@ Full License Text:
 
        7. Disclaimer of Warranty. Unless required by applicable law or
           agreed to in writing, Licensor provides the Work (and each
-          Contributor provides its Contributions) on an "AS IS" BASIS,
+          Contributor provides its Contributions) on an ""AS IS"" BASIS,
           WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
           implied, including, without limitation, any warranties or conditions
           of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
@@ -3158,40 +2335,28 @@ Full License Text:
        APPENDIX: How to apply the Apache License to your work.
 
           To apply the Apache License to your work, attach the following
-          boilerplate notice, with the fields enclosed by brackets "[]"
+          boilerplate notice, with the fields enclosed by brackets ""[]""
           replaced with your own identifying information. (Don't include
           the brackets!)  The text should be enclosed in the appropriate
           comment syntax for the file format. We also recommend that a
           file or class name and description of purpose be included on the
-          same "printed page" as the copyright notice for easier
+          same ""printed page"" as the copyright notice for easier
           identification within third-party archives.
 
        Copyright [yyyy] [name of copyright owner]
 
-       Licensed under the Apache License, Version 2.0 (the "License");
+       Licensed under the Apache License, Version 2.0 (the ""License"");
        you may not use this file except in compliance with the License.
        You may obtain a copy of the License at
 
            http://www.apache.org/licenses/LICENSE-2.0
 
        Unless required by applicable law or agreed to in writing, software
-       distributed under the License is distributed on an "AS IS" BASIS,
+       distributed under the License is distributed on an ""AS IS"" BASIS,
        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
        See the License for the specific language governing permissions and
-       limitations under the License.
-
-## Package Name: Droid Sans
-### Package Type: font
-
-Status: Currently Used
-
-License: Apache License Version 2.0
-
-License URL: https://github.com/google/fonts
-
-Full License Text: 
-
-    Licensing
+       limitations under the License."
+Droid Sans,Apache License Version 2.0,"Licensing
 
     It is important to always read the license for every font that you use.
     Each font family directory contains the appropriate license file for the fonts
@@ -3206,48 +2371,10 @@ Full License Text:
     Reserved Font Name requirement, and this option is used with some of the fonts.
     If you modify those fonts, please take care of this important detail.
 
-    [Reference to Apache 2.0 license also found here: https://fonts.google.com/specimen/Droid+Sans]
-
-## Package Name: Font Awesome
-### Package Type: font
-
-Status: Currently Used
-
-License: SIL OFL 1.1
-
-License URL: http://fontawesome.io/license/
-
-Full License Text: 
-
-License text source: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-
-
-## Package Name: Font Awesome (Code/CSS)
-### Package Type: css
-
-Status: Currently Used
-
-License: MIT
-
-License URL: http://fontawesome.io/license/
-
-Full License Text: 
-
-License text source: http://opensource.org/licenses/mit-license.html
-
-
-## Package Name: MaterialDesignIcons
-### Package Type: font
-
-Status: Currently Used
-
-License: SIL OFL 1.1, Apache License Version 2.0
-
-License URL: https://github.com/Templarian/MaterialDesign/blob/master/license.txt
-
-Full License Text: 
-
-    Copyright (c) 2014, Austin Andrews (http://materialdesignicons.com/),
+    [Reference to Apache 2.0 license also found here: https://fonts.google.com/specimen/Droid+Sans]"
+Font Awesome,SIL OFL 1.1,License text source: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+Font Awesome (Code/CSS),MIT,License text source: http://opensource.org/licenses/mit-license.html
+MaterialDesignIcons,"SIL OFL 1.1, Apache License Version 2.0","Copyright (c) 2014, Austin Andrews (http://materialdesignicons.com/),
     with Reserved Font Name Material Design Icons.
     Copyright (c) 2014, Google (http://www.google.com/design/)
     uses the license at https://github.com/google/material-design-icons/blob/master/LICENSE
@@ -3277,22 +2404,22 @@ Full License Text:
     to any document created using the fonts or their derivatives.
 
     DEFINITIONS
-    "Font Software" refers to the set of files released by the Copyright
+    ""Font Software"" refers to the set of files released by the Copyright
     Holder(s) under this license and clearly marked as such. This may
     include source files, build scripts and documentation.
 
-    "Reserved Font Name" refers to any names specified as such after the
+    ""Reserved Font Name"" refers to any names specified as such after the
     copyright statement(s).
 
-    "Original Version" refers to the collection of Font Software components as
+    ""Original Version"" refers to the collection of Font Software components as
     distributed by the Copyright Holder(s).
 
-    "Modified Version" refers to any derivative made by adding to, deleting,
+    ""Modified Version"" refers to any derivative made by adding to, deleting,
     or substituting -- in part or in whole -- any of the components of the
     Original Version, by changing formats or by porting the Font Software to a
     new environment.
 
-    "Author" refers to any designer, engineer, programmer, technical
+    ""Author"" refers to any designer, engineer, programmer, technical
     writer or other person who contributed to the Font Software.
 
     PERMISSION & CONDITIONS
@@ -3333,7 +2460,7 @@ Full License Text:
     not met.
 
     DISCLAIMER
-    THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    THE FONT SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
     EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
     OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
@@ -3341,4 +2468,4 @@ Full License Text:
     INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
     DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
     FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
-    OTHER DEALINGS IN THE FONT SOFTWARE.
+    OTHER DEALINGS IN THE FONT SOFTWARE."
