@@ -20,4 +20,3 @@ for counter,tpackage in enumerate(f):
     license = tpackage.split("Full License Text:")[1].strip()
     c.writerow([package_name, package_license, license])
 
-
