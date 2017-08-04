@@ -2938,7 +2938,7 @@ Full License Text:
 ## Package Name: CSS Element Queries
 ### Package Type: javascript
 
-Status: Currently Used
+Status: Unused
 
 License: MIT
 
